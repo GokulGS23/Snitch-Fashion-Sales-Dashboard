@@ -1,24 +1,7 @@
-# Snitch Fashion Sales Analysis Dashboard
-
-## Project Overview
-This project analyzes Snitch Fashion sales data using Excel and Power BI.
-
-## Project Process
-- Started with the uncleaned Snitch Fashion dataset.
-- Cleaned and prepared the data using Excel.
-- Created the required calculations and data model in Power BI.
-- Built an interactive sales analytics dashboard.
-- Added charts, KPI cards, slicers, bookmarks, buttons, and drill-through for analysis.
-
-## Dashboard
-The Power BI dashboard provides insights into:
-- Sales and revenue
-- Profit and profit margin
-- Units sold
-- Product performance
-- City and segment performance
-- Monthly sales trends
-
-## Tools Used
-- Microsoft Excel
-- Microsoft Power BI
+Snitch Fashion Sales Analysis Dashboard
+This project analyzes the Snitch Fashion sales dataset.
+The project started with an uncleaned dataset. The data was cleaned and prepared using Microsoft Excel.
+The cleaned data was then imported into Microsoft Power BI and used to create an interactive sales analysis dashboard.
+The dashboard covers sales, revenue, profit, units sold, product performance, city and segment analysis, monthly trends, slicers, bookmarks, navigation buttons and drill-through.
+Tools used: Microsoft Excel and Microsoft Power BI.
+Project flow: Uncleaned Data → Excel Cleaning → Data Validation → Power BI → Data Model & Measures → Visualization → Interactive Dashboard
